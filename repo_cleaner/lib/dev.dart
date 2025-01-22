@@ -10,10 +10,6 @@ class Dev extends StatefulWidget {
 class _DevState extends State<Dev> {
   @override
   Widget build(BuildContext context) {
-<<<<<<< HEAD
-    return Text("Devlopment Task - ***REMOVED***");
-=======
     return Text("Devlopment Task - abcdef");
->>>>>>> e7973b2b298dfefa9d53e75ce4453fda20677747
   }
 }
