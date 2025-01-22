@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 
-class ***REMOVED*** extends StatefulWidget {
-  const ***REMOVED***({super.key});
+class QA extends StatefulWidget {
+  const QA({super.key});
 
   @override
-  State<***REMOVED***> createState() => _***REMOVED***State();
+  State<QA> createState() => _QAState();
 }
 
-class _***REMOVED***State extends State<***REMOVED***> {
+class _QAState extends State<QA> {
   @override
   Widget build(BuildContext context) {
-    return const Text("***REMOVED***");
+    return Text("QA - asdfghjkl");
   }
 }
