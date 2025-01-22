@@ -10,6 +10,6 @@ class QA extends StatefulWidget {
 class _QAState extends State<QA> {
   @override
   Widget build(BuildContext context) {
-    return Text("QA - ***REMOVED***");
+    return const Text("QA - ***REMOVED***");
   }
 }
